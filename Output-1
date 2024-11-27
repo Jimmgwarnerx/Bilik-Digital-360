@@ -1,0 +1,6 @@
+cd /lokasi/output-1
+git init
+git remote add origin http://localhost:59095/EaUEBLDA~rxrbj3/index.html
+git add .
+git commit -m "Upload projek Pano2VR"
+git push -u origin main
